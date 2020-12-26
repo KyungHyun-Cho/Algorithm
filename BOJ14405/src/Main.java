@@ -1,0 +1,1 @@
+import java.util.*;class Main{public static void main(String[]a){Scanner s=new Scanner(System.in);System.out.println(s.next().replace("pi",".").replace("ka",".").replace("chu",".").replace(".","").length()==0?"YES":"NO");}}
